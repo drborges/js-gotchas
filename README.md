@@ -17,7 +17,7 @@ knowledge about javascript language and its gotchas.
 
 1. spec/introSpec.js: Why should you learn the bad parts of the language?
 
-2. spec/polutionSpec.js: Global Namespace polution
+2. spec/polutionSpec.js: Be conscious, take care of the global scope
   * The window object
   * Immediately-invoked function expression
 
