@@ -33,7 +33,7 @@ knowledge about javascript language and its gotchas.
 Tips
 -----
   * Never polute the global namespace
-  * Avoid 'this' and 'new' as much as you can
+  * Avoid 'this' and 'new' as much as you can, unless you understand their semantics
   * use === over == and its similars
   * Be declarative, instead of programmatic
   * Stop doing Java in JavaScript for the sake of Mozair! He will hunt you down
