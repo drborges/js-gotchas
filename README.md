@@ -46,3 +46,4 @@ References
   * [Perdido is Lost](http://luizfar.wordpress.com/2012/04/28/dont-use-this-in-javascript/#more-423)
   * [Common JavaScript "Gotchas"](http://www.jblotus.com/2013/01/13/common-javascript-gotchas)
   * [Preparing Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)
+  * [Understanding JavaScript OOP](http://killdream.github.io/blog/2011/10/understanding-javascript-oop/index.html)
